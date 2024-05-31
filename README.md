@@ -65,4 +65,4 @@
 - https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts-webserver.html?icmpid=docs_elasticbeanstalk_console
 - https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/web-application-architecture-on-aws-ra.pdf?did=wp_card&trk=wp_card
 
-[architecture-diagram]: assets/Module-4-Architecture.jpg
+[architecture-diagram]: assets/Module-4-architecture.jpg
